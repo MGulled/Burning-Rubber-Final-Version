@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Road
+  - Terrain
+  - Bumper
+  - Barrier
+  - Progress
+  - AI
+  - ProgressAI
+  - ProgressAI2
+  - ProgressAI1
+  - ProgressAI3
+  - ProgressAI4
+  - ProgressAI5
+  - ProgressAI6
+  - ProgressAI7
+  - AI1
+  - AI2
+  - AI3
+  - AI4
+  - AI5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - MiniMap
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Not in Reflection
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
